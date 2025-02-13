@@ -69,7 +69,7 @@ __IBM Data Analytics__
 An intensive course in Data Analytics with capstone projects.  
 
 __Microsoft PowerBI Analytics__  
-*online course by Microsoft on Coursera*  
+*online course by Microsoft *  
 A comprehensive course on PowerBI, covering skills in data analytics.   
 
 ## Examples of my work
