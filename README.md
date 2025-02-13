@@ -10,13 +10,13 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organized, structured and attentive to detail due to my background as a construction management professional. On the other, due to my personality, I love to communicate with people and solve problems.
-
-I got my Bachelor's Degree from the Northern Alberta Institute of Technology (NAIT), Alberta, Canada. I also have 1+ year of experience  as a Data Analyst, 4+ years of Sales and customer service experience.
-
-Now, I wish to develop my research and data analytical skills. 
-
-I would be extremely happy to apply the obtained knowledge to analyze and solve real business problems and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level Data Analyst in 2 years.
+I am a data analyst with hands-on experience in data extraction, transformation, loading (ETL), data mining, data preparation, modelling, data analysis and visualization.
+Trained in engineering and construction management with experience in Data analysis, Sales, Customer Service, and Project Management.
+- Demonstrated expertise in different technologies, including SQL, PostgreSQL, Python, Tableau, PowerBI, Microsoft Excel, Workday, SAP and Agile tools such as JIRA, Trello, and GitHub.
+- Skilled in problem-solving, creative thinking, research, planning and decision-making.
+Known to be a self-starter and for the ability to learn quickly, leadership qualities and taking initiative.
+Proven teamwork capabilities, adaptive nature, and strong interpersonal communication skills through multiple projects.
+Always open to new ideas and meeting new people!
 
 ## Resume
 You can download my Resume as [PinjanSmita_Resume.pdf](https://github.com/SmitaPinjan/SmitaPinjan.github.io/files/15050467/PinjanSmita_Resume.pdf)
