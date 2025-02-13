@@ -19,7 +19,7 @@ Proven teamwork capabilities, adaptive nature, and strong interpersonal communic
 Always open to new ideas and meeting new people!
 
 ## Resume
-You can download my Resume as [PinjanSmita_Resume.pdf](https://github.com/SmitaPinjan/SmitaPinjan.github.io/files/15050467/PinjanSmita_Resume.pdf)
+You can download my Resume as [PinjanSmita_Resume.pdf](https://github.com/SmitaPinjan/SmitaPinjan.github.io/images/PinjanSmita_Resume.pdf)
 
 ## Skills
 
