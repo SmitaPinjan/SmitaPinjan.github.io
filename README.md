@@ -73,6 +73,7 @@ __Microsoft PowerBI Analytics__
 A comprehensive course on PowerBI, covering skills in data analytics.   
 
 ## Examples of my work
+### Projects using SQL, Python & Visualized using PowerBI: 
 
 __Telecom Churn Analysis__
 
